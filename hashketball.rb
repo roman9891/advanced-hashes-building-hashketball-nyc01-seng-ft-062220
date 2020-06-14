@@ -33,7 +33,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -44,7 +44,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -55,7 +55,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -72,7 +72,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -83,7 +83,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -94,7 +94,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -105,7 +105,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
@@ -116,7 +116,7 @@ def game_hash
           shoe:,
           points:,
           rebounds:,
-          assists,
+          assists:,
           steals:,
           blocks:,
           slam_dunks:
