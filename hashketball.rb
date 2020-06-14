@@ -19,13 +19,13 @@ def game_hash
         {
           player_name: "Reggie Evans",
           number: 30,
-          shoe:,
-          points:,
-          rebounds:,
-          assists,
-          steals:,
-          blocks:,
-          slam_dunks:
+          shoe: 14,
+          points: 12,
+          rebounds: 12,
+          assists 12,
+          steals: 12,
+          blocks: 12,
+          slam_dunks: 7
         },
         {
           player_name:,
